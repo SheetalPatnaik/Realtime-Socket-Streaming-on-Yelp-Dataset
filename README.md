@@ -1,9 +1,9 @@
-# 🚀 Realtime Socket Streaming on Yelp Dataset  
+# 🚖 Uber Simulation Project  
 
 ## 📌 Overview  
-This project demonstrates **real-time data streaming, processing, and visualization** on the **Yelp dataset** using **big data technologies, distributed computing, and cloud platforms**. It efficiently handles large-scale data, extracts insights, and presents them through interactive dashboards.  
+This project is a **full-stack simulation of a ride-sharing platform** with core functionalities like **ride booking, driver management, billing, and real-time notifications**. It is built with **Django (backend) and React.js (frontend)** and leverages **Docker, Kubernetes, Redis, and WebSockets** for scalability and efficiency.  
 
-Developed as a **final academic project**, this work showcases expertise in **big data engineering, real-time analytics, cloud computing, and data visualization**, making it **highly relevant for roles in data engineering, analytics, and AI-driven decision-making**.  
+This project demonstrates expertise in **microservices architecture, real-time communication, cloud deployment, and system orchestration**, making it highly relevant for roles in **backend engineering, cloud computing, and DevOps**.  
 
 ---
 
